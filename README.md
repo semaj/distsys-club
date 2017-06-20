@@ -1,14 +1,6 @@
 # Distributed Systems / Bitcoin Papers Club
 
-## The Plan
-There are two ways to go about this:
-1. Meet weekly. Before each week, each person is assigned a paper (under one theme) and at the meeting each person presents a fifteen minute summary of their paper.
-2. Meet weekly. Before each week, one paper is assigned. Each person reads this paper, and at the meeting we discuss this paper.
-
-I'd also potentially like to have each reader write a short summary of the paper they read, if we go with option 1, which I prefer.
-
-
-## Future Paper Ideas
+## Papers
 ### Bitcoin
 * [On the Instability of Bitcoin Without the Block Reward](http://randomwalker.info/publications/mining_CCS.pdf)
 * [An Empirical Analysis of Linkability in the Monero Blockchain](http://monerolink.com/monerolink.pdf)
@@ -27,6 +19,10 @@ I'd also potentially like to have each reader write a short summary of the paper
 * [Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](http://www-bcf.usc.edu/~wyattllo/papers/cops-sosp11.pdf)
 * [Ethereum: Proof of Stake](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 * [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://pdfs.semanticscholar.org/1c14/549f7ba7d6a000d79a7d12255eb11113e6fa.pdf)
+* [Anonymous Byzantine Consensus from Moderately-Hard Puzzles](https://socrates1024.s3.amazonaws.com/consensus.pdf)
+* [A Brief Tour of FLP Impossibility](http://the-paper-trail.org/blog/a-brief-tour-of-flp-impossibility/)
+* [Consensus in the Presence of Partial Synchrony](http://groups.csail.mit.edu/tds/papers/Lynch/jacm88.pdf)
+
 
 ### Networks
 * [CoralCDN](http://www.cs.princeton.edu/~mfreed/docs/coral-nsdi10.pdf)
